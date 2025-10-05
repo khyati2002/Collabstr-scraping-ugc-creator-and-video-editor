@@ -5,4 +5,4 @@ Documentation : https://www.notion.so/Technical-Documentation-Profile-Scraping-V
 
 Steps to run the script : 
 pip3 install -r requirements.txt
-python3 collabstr_dual_scraper.py
+python3 collabstr_dual_scraper.py --email 'YOUR_COLLBSTR_EMAIL' --password 'YOUR_COLLABSTR_PASSWORD'
